@@ -1,2 +1,2 @@
 # todo-app
-Todo app in browser
+Todo app in browser (html, css, js)
